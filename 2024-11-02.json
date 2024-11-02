@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Murray",
+  "age": 46,
+  "address": {
+    "street": "Naaw Circle",
+    "city": "Kubeab",
+    "state": "GA",
+    "zip": "20780"
+  },
+  "contact": {
+    "phone": "(334) 731-6712",
+    "servicePhone": "800726759"
+  },
+  "birthday": "1990-09-24T07:09:59.344Z",
+  "ip": "224.107.36.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Unu gimasac kidi wownip kezno hefnuk kewecun so mipu lacur nejsokgi deslat hed obfod zo naku izujala. Nivimda ta vakeseka ozode got jaafe loijco ecuru lenriwa ros cizvo pozturtot nuj hen ri muis cac. Bi dutlomem cug becej hewsim diezo opacujod pedar mul weit wav bulzes.",
+    "bio": "Pevfav dathir uhtole sor igkuf siaraowo nahsadcu rip gepsok ul zufka pevez. Voujaizo cud tezha wabu zu efnu udaalo vudoj dorkel paidovel songul dilotsuk veocevej bizfu gosovti apduvjoh fobhok ano. Gecluzji ebked hegnuppeg tosig cumbetowi fegupi nuc derazuni cefza jazelun gotna ruvaran damzub. Utojimur vu divnijak sev tetagu mibekbu mucginan raod wetfozko cofa lifru kottufguh nuzbep hej. Tonvioca seotbi dun oj sop lu usificu igfagnil umsikob kopame igovisje le alki. Kugera timis cejufojo tibiv ehiwedu eri feklieg osihuf jah fe gu maw akol ba. Tidiwuva duur roncuwa co bi ha ko vuoc coh fi tenhuvlec amo giwotvo ewaanisec zuh."
+  },
+  "apiKey": "5a599c583b34d53c27d6079460142f6a9394cb1fb5c4a2c98ff86cfa3cdb3280",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
