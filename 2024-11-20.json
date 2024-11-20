@@ -1,0 +1,26 @@
+{
+  "name": "Ora Cunningham",
+  "age": 25,
+  "address": {
+    "street": "Talsoj Place",
+    "city": "Berseptum",
+    "state": "MO",
+    "zip": "25217"
+  },
+  "contact": {
+    "phone": "(360) 459-2707",
+    "servicePhone": "800294551"
+  },
+  "birthday": "1964-09-16T09:57:45.126Z",
+  "ip": "96.11.88.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Awu asi hurejol nec mav eralof kivdo muluja vo ha lalcoh nizovosa. Big bun bir fablajif tealte re tesce nir hocaz uwiboj gonesiedu re zemooj farifnup ucta gac. Megugbu ije wuvmotud pafav oh puri na ob fop paszoha valiceb lef zizug ko genemegij cieraip vusuet.",
+    "bio": "Huehofa tof cetifdoh miavi sebruzeh mo naehsem meubene bul juse tiso goleh ticer miiko kawa ocahuw si. Wemzevdus jid lo foceleza uwa mak puvkozniw sav nom wevkam ok gik wezaoji subzozsa uvmu. Vo me hiwlek nuzerca pasatan fe bojeju siwaz sazif muheuri ewelomhe arico jecob oca jec iwe ifi. Hikini ruhi cig lij dulopasa razub ipuvo de rimze adhabmi civas ruuwo zijilsi fedli orudif mirtabe obta."
+  },
+  "apiKey": "cae701cfba89a7ff2e331c4f5828e21cabaeb2c3d32f59d410f02765104e88db",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
