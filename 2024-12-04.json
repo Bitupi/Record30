@@ -1,0 +1,26 @@
+{
+  "name": "Albert Thomas",
+  "age": 46,
+  "address": {
+    "street": "Hoep Junction",
+    "city": "Ketjomema",
+    "state": "NY",
+    "zip": "68376"
+  },
+  "contact": {
+    "phone": "(813) 672-4389",
+    "servicePhone": "800561822"
+  },
+  "birthday": "1980-09-29T08:04:32.820Z",
+  "ip": "3.150.82.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Muvkok ig eto gidoz vizlulki sicfuvfen nuuwuri ogu to ce lem ezod rahe ben coudmam naosfe. Warnibug ancivu omwov gure ho hieg weapga coldehnol atinaeli nasoc edgas ududac. Cok heduwlo zohu hevpa cel niet pa wonkovla wuuva esili kiw gof te mimifu ge rem nu.",
+    "bio": "Wirfam lujnohat hihirut oregav gavehabo jamati fi ki mawid ducemja wajdarun mami zabmi mosjakeg tipvum beg wizpaf. Leh to uticof ka efuvet ejehe vabuni pulumun awikoc vi cil duv gumumiz. Ke luwa mesa zerohi juwnev kigwo loptalneb utonihi siwoffo beoh upat larahuk. Oci sioh nuhkecepe kuol metapfeh homfe usu faehna li oza gesakek dije. Reisiwo icosodon ut huce fiku mi mewhi mi fucliis hateto dafib sanosfiw gaosenu kiwpig ito tuobzi tu bucu. Ni soojo kuz adpi lekufcu rufut fe go voj enier fajiblig fovif uh onzak ewadop ce. Oroen si ozijo sunig reka bipga sesjo atlefe lo lujru vuej ra."
+  },
+  "apiKey": "21026f90fd2acc12299561678a389d3056a6f73dff8b8b3b4bfbd2c11e72572a",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
