@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Ferguson",
+  "age": 63,
+  "address": {
+    "street": "Tifo Highway",
+    "city": "Soritne",
+    "state": "MO",
+    "zip": "42860"
+  },
+  "contact": {
+    "phone": "(775) 656-8337",
+    "servicePhone": "800996926"
+  },
+  "birthday": "1993-01-15T01:30:55.624Z",
+  "ip": "226.14.221.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju desi bifekege lackuvun sok zasjeh ogu lepma awo tu geefu wosuhour la. Farleji pod zihpohur ez gi vam cajaba ijaega birjiew ca gimbimow lo kufatavu. Mosuh vu pew howic vase fa en lefa bicaj baz oti luzev ev lante uzuwmu eneihok tot sovoro.",
+    "bio": "Decozeto fiz ov rimjacos ofador ika kabrassa edurejes metfag nis ecmu pudak kuzuzofip uji. Lenmo ko muola buocuv raluh fenkug ego eheva cikzokzir zan huj ti up ise vij na. Uv hode hirim bo zohnim ve gohbifpa guprusla lu dafuji cem fupetepev lelguge. Fusbo guttipah fo zetaho jupsi vamoddab ca wegwedma ep da laecagad cefhulzic wejsimi sib fodo wozta ma zoj. Ge pe co noaw vuzvo casecocu fivka fud ubipabeb dajrap mohcuug jel ko gafizab homujo cojutzim."
+  },
+  "apiKey": "e75e505f4f91825bf0dd7f42b54ca5c82c02d3f80240172ae5e662004d163973",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
