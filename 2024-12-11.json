@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Bowers",
+  "age": 21,
+  "address": {
+    "street": "Dufvaf Pike",
+    "city": "Fihugad",
+    "state": "MT",
+    "zip": "85636"
+  },
+  "contact": {
+    "phone": "(254) 402-6182",
+    "servicePhone": "800385537"
+  },
+  "birthday": "1989-02-15T07:41:50.909Z",
+  "ip": "66.118.202.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Todzu biaguwaf nanu kef rasvi zu asolah lokdanad lotdupip icikukufo bitet hetob vepve rowari vep vasojim. Ve jo kev me suswi teiteuj gojacaja dek sezatug fanru arupuuna puraloh. Mutozcuf feze sugok tebfi lagomkuj geregze domuzi pihvionu ferusgor kup sal dersi varridowo eb gog toliwanuw samoreiho. Feri omosel ubot lazkeja loisa zieb zeb kemef jielooca zaapiwam tu tiddagha he vo hian gafiha ve.",
+    "bio": "Cahoof wob tes tu irgace ku nerfehus hogwi bema pudgumros utozugwim deehfa afatum bij gajmode. Ja devapij at no somtuela dab ow voj kug go jo bej covifitu uv jupowra co. Ticeb wune zeb lamabzeg gi vohwij meej hokcam zankouzi getojji rer gobruca oma inizadav. Mu lus wehmimcu ziriso nizgu jokfoblil niagsu hocewfon wopbavseg defejoc raiwogo fu ebku wu azo. Hem nu hulol fedorwev awu zadin vu kaf govwuvluk panlob joosil ti pef iz."
+  },
+  "apiKey": "d35cb121314356c58d40422bbdb2f5c80e23610dda1b954d45751e44d8d51414",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
